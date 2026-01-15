@@ -1,2 +1,2 @@
-# cs1812
-exercise sheets
+# Desktop apps 
+Following a tutorial from Nasha 
